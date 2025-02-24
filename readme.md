@@ -37,10 +37,6 @@ Aplikasi ini dibuat sebagai tugas akhir mata kuliah Web Programming pada semeste
    cd cyber-jobs-website
    ```
 3. Konfigurasi database di `application/config/database.php`
-4. Jalankan server lokal:
-   ```bash
-   php spark serve
-   ```
 
 ## Contributing
 Jika ingin berkontribusi, silakan buat pull request.
