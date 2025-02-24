@@ -24,7 +24,7 @@ Aplikasi ini dibuat sebagai tugas akhir mata kuliah Web Programming pada semeste
 
 ## Technologies Used
 - **Framework:** CodeIgniter 3
-- **Frontend:** HTML, CSS, Bootstrap (SB Admin Template)
+- **Frontend:** HTML, CSS, Bootstrap (SB Admin Template), Javascript
 - **Database:** MySQL
 
 ## Installation
